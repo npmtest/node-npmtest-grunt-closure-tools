@@ -1,4 +1,7 @@
-# test coverage for  [grunt-closure-tools (v0.9.9)](https://github.com/closureplease/grunt-closure-tools)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-closure-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-closure-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-closure-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-closure-tools)
+# npmtest-grunt-closure-tools
+
+#### basic test coverage for  [grunt-closure-tools (v0.9.9)](https://github.com/closureplease/grunt-closure-tools)  [![npm package](https://img.shields.io/npm/v/npmtest-grunt-closure-tools.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-grunt-closure-tools) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-grunt-closure-tools.svg)](https://travis-ci.org/npmtest/node-npmtest-grunt-closure-tools)
+
 #### Google Closure Library Tools for grunt, Compiler, DepsWriter, Builder.
 
 [![NPM](https://nodei.co/npm/grunt-closure-tools.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-closure-tools)
@@ -93,7 +96,8 @@
     "scripts": {
         "test": "grunt test"
     },
-    "version": "0.9.9"
+    "version": "0.9.9",
+    "bin": {}
 }
 ```
 
